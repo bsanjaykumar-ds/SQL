@@ -1,6 +1,6 @@
 # 📊 MySQL Data Analytics — Practical Solutions
 
-A complete set of **50 MySQL practical solutions** covering core data analytics concepts — from schema design and constraints all the way to stored procedures, views, and temporary tables. Built on a realistic `sales_analytics` database.
+A complete set of **50 MySQL practical solutions** covering core data analytics concepts — from schema design and constraints all the way to stored procedures, views, and temporary tables.
 
 ---
 
@@ -85,13 +85,8 @@ Creating a session-scoped temporary table `temp_top5_products` that stores the t
 
 ## ▶️ How to Run
 
-1. Open **MySQL Workbench** or any MySQL client.
-2. Run the full file:
-   ```bash
-   mysql -u root -p < data_analytics_solutions.sql
-   ```
-   Or paste sections directly into the query editor.
-3. The script creates the database, tables, and all objects from scratch.
+  Open **MySQL Workbench** or any MySQL client.
+
 
 > **Note:** Run the schema setup section first before executing individual queries.
 
@@ -107,5 +102,5 @@ Creating a session-scoped temporary table `temp_top5_products` that stores the t
 ## 👤 Author
 
 **\< sanjay kumar \>**  
-📧 \<your.email@example.com\>  
+📧 \<bsanjaykumar.work@gmail.com\>  
 🔗 [LinkedIn](www.linkedin.com/in/sanjaykumar-data-science) · [GitHub](https://github.com/bsanjaykumar-ds)
